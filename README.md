@@ -2,11 +2,11 @@
 
 ---
 
-This is an skeleton React application meant to be simply [downloaded](https://github.com/raviindorey/react-webpack/archive/master.zip) or cloned just to save setup time.
+This is an skeleton React application meant to be simply [downloaded](https://github.com/raviindorey/webpack-react/archive/master.zip) or cloned just to save setup time.
 
 Cloning:
 ```
-  git clone git@github.com:raviindorey/react-webpack.git
+ git clone git@github.com:raviindorey/react-webpack.git
 ```
 
 Rename the folder and update package.json file
@@ -14,13 +14,13 @@ Rename the folder and update package.json file
 Don't forget to install npm packages:
 
 ```
-  cd <folder_name> && npm install
+ cd <folder_name> && npm install
 ```
 
 webpack-dev-server is configured to run at port 9000
 
 ```
-  npm run start
+ npm run start
 ```
 
 check `localhost:9000`
