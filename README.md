@@ -6,7 +6,7 @@ This is an skeleton React application meant to be simply [downloaded](https://gi
 
 Cloning:
 ```
- git clone git@github.com:raviindorey/react-webpack.git
+ git clone git@github.com:raviindorey/webpack-react.git
 ```
 
 Rename the folder and update package.json file
